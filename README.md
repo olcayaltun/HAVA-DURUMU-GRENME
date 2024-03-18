@@ -4,5 +4,6 @@
       
       
       
-<img src="HAVADURUMU.mp4" alt="">
+<img src="HV.gif
+" alt="">
 # HAVA-DURUMU-GRENME
